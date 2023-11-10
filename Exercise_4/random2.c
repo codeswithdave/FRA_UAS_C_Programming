@@ -6,9 +6,9 @@ int main(){
 
     srand(time(NULL));
 
-    int head_or_tails=(rand()%6)+1;
+    int dice_side=(rand()%6)+1;
 
-    printf("Sie haben gewuerfelt: %d\n",head_or_tails);
+    printf("Sie haben gewuerfelt: %d\n",dice_side);
 
     return 0;
 }
