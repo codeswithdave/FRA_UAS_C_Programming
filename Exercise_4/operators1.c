@@ -1,4 +1,4 @@
-/*---- Aufgabe 14 -----*/
+/*---- Aufgabe 14 a. -----*/
 #include <stdio.h>
 
 int main()
