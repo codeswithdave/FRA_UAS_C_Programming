@@ -8,7 +8,7 @@ int main(){
 
     int head_or_tails=(rand()%2);
 
-    (head_or_tails==0)? printf("Zahl\n"):printf("Kopf\n");
+    printf("Ich werfe eine Muenze, sie landet auf: %d\n",&head_or_tails); 
 
     return 0;
 }
